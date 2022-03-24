@@ -4,7 +4,8 @@ export class Course {
     imageUrl: string;
     price: number;
     code: string;
-    dutation: number;
+    duration: number;
     rating: number;
     releaseDate: string;
+    description: string;
 }
